@@ -22,7 +22,7 @@ header{
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end:3 ;
-    background-color: rgb(86, 150, 129);
+    background-color: rgb(80, 145, 123);
 }
 .caja:nth-of-type(2){
     grid-column-start: 3;
